@@ -1,23 +1,48 @@
-# Todo List
+# 📝 Todo List
 
-A simple Todo List built using HTML, CSS and JavaScript.
+A modern Todo List application built using **HTML, CSS, and JavaScript**.
 
-## Live Demo
+## 🚀 Live Demo
 
 https://somnathbuilds.github.io/todo-list/
 
-## Screenshot
+## 📸 Screenshot
 
 ![Todo List](assets/screenshot.png)
 
-## Features
+## ✨ Features
 
-- Add Task
-- Delete Task
-- Mark Complete
+- ✅ Add Task
+- ✏️ Edit Task
+- 🗑️ Delete Task
+- ✔️ Mark Task as Complete
+- 💾 Local Storage
+- 📊 Task Counter
+- 🧹 Clear All Tasks
+- ⌨️ Add task using Enter key
+- 📱 Responsive Design
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
+
+## 📂 Folder Structure
+
+```
+Todo-List
+│── assets
+│    └── screenshot.png
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+## 👨‍💻 Author
+
+**Somnath Yadav**
+
+GitHub: https://github.com/somnathbuilds
